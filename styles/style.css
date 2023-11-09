@@ -55,6 +55,8 @@ nav ul li:hover {
 
 footer {
     text-align: center;
+    font-style: italic;
+    font-family: cursive;
 }
 
 #copyright{                 /*  Une autre forme d'animation pour le Footer  */
@@ -161,7 +163,7 @@ dd:target {
     padding-left: 38px;   /* Pour raison inconnu les images ne sont pas central sur la page donc l'utilisation du padding pour le corriger */
 }
  #galpad a {
-    color: rgb(34, 76, 118);
+    color: rgba(34, 76, 118, 1);
  }
 
 
@@ -219,10 +221,11 @@ dd:target {
 #col2 {
     /* background-color: red; */                /* Au début, je mettre des couleurs différent sur les elements pour voir plus façilement lequel est lequel :-)*/
     font-size: 20px;
+    
 }
 
 #col2 a {
-    color: black;
+    color: rgba(34, 76, 118, 1);
 }
 
   
@@ -231,7 +234,8 @@ dd:target {
     font-size: 20px;
 }
 
-.column ul li {                                 
+.column ul li {    
+    font-family: Verdana, Tahoma, sans-serif;                             
     padding-top: 15px;
     display: inline-block;
     text-align: center;
@@ -270,7 +274,8 @@ dd:target {
 #rappad {
     padding-right: 100px;
     padding-left: 50px;
-    font-size: 24px;
+    font-size: 22px;
+    font-family: cursive;
 }
 
 #entreimg {
@@ -291,8 +296,8 @@ dd:target {
     text-align: justify;
     font-family: cursive;
     font-size: 24px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
     border: 5px;
 }
 
