@@ -36,6 +36,7 @@ h3 {
     text-align: center;
 }
 
+
 nav ul li {
     display: inline-block;
     width: 16%;
@@ -46,7 +47,8 @@ nav ul li {
 }
 
 nav ul a {
-    color: black;
+    color: rgba(34, 76, 118, 1);
+    /* color: black; */
 }
 
 nav ul li:hover {
@@ -124,7 +126,8 @@ li dt a:hover {
 }
 
 #ladies a {
-    color: black;
+    /* color: black; */
+    color: rgba(34, 76, 118, 1);
 }
 dl {
     font-size: 20px;
