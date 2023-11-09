@@ -308,6 +308,14 @@ dd:target {
     border: 5px;
 }
 
+#lastnote {
+    text-align: justify;
+    font-family: cursive;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-right: 200px;
+    border: 5px;
+}
 /*  ------------------------- FIN DU SELECTORS CONCLUSION  ------------------------- */
 
 
