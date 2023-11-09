@@ -255,6 +255,10 @@ dd:target {
     margin-right: 80px;
 }
 
+.interintro a {
+    color: rgb(34,76,118);
+}
+
 .intanswer {
     font-size: larger;
     font-style: italic;
